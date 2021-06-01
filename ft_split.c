@@ -6,7 +6,7 @@
 /*   By: rogeriorslf <rogeriorslf@student.42.fr>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/05/31 00:45:31 by rogeriorslf       #+#    #+#             */
-/*   Updated: 2021/05/31 20:19:58 by rogeriorslf      ###   ########.fr       */
+/*   Updated: 2021/05/31 22:30:41 by rogeriorslf      ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -37,7 +37,7 @@ static char	**alloc(char *s, char c)
 
 char	**fill_array(char **splitted, char *s, char c, size_t i[2])
 {
-	while (*s) "zzzzz"
+	while (*s)
 	{
 		if (*s != c)
 		{
