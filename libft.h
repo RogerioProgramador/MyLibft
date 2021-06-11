@@ -68,7 +68,7 @@ void	ft_nstrcpy(char *dst, char *src, char c);
 /*Free all elements of a two-star pointer.*/
 void	free_all(char **s);
 /*Return the number's number of cases.*/
-int	int_length(int nb);
+int		int_length(int nb);
 /*return a pointer initialized with the char you want finished with NULL.*/
 void	*ft_ncalloc(size_t count, size_t size, char c);
 
